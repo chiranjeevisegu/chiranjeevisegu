@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&width=500&lines=Hello+World!+👋;I'm+Chiranjeevi+Segu;AI+%7C+ML+%7C+Data+Science+Enthusiast" alt="Typing Animation" />
-</div>
-
----
-
 ### 🚀 **About Me**  
 ```python
 class DataScientist:
@@ -18,3 +12,10 @@ class DataScientist:
 
 me = DataScientist()
 print(me)
+
+
+🔥 Tech Stack
+Category	Tools
+Languages	Python R SQL
+AI/ML	TensorFlow PyTorch Scikit-Learn
+Data & Cloud	Pandas AWS Docker
