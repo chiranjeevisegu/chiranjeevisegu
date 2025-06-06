@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&width=500&lines=Hello+World!+👋;I'm+Chiranjeevi+Segu;AI+%7C+ML+%7C+Data+Science+Enthusiast" alt="Typing Animation" />
+</div>
 
-<!--
-**chiranjeevisegu/chiranjeevisegu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 **About Me**  
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Chiranjeevi Segu"
+        self.role = "AI/ML Engineer"
+        self.passions = ["Deep Learning", "NLP", "Generative AI"]
+        self.motto = "Turning data into insights, and insights into impact."
+    
+    def __str__(self):
+        return f"{self.name} | {self.role}"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+me = DataScientist()
+print(me)
