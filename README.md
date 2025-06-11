@@ -1,18 +1,4 @@
 # 💫 About Me:
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Chiranjeevi Segu"
-        self.role = "AI/ML Engineer"
-        self.passions = ["Python", "AIML", "Deep Learning", "NLP", "Generative AI"]
-        self.motto = "Turning data into insights, and insights into impact."
-    
-    def __str__(self):
-        return f"{self.name} | {self.role}"
-
-me = DataScientist()
-print(me)
-
 Hi! I’m Segu Venkata Chiranjeevi, a Computer Science (AI) student at Amrita Vishwa Vidyapeetham, driven by a passion for leveraging AI, ML, and NLP to solve real-world challenges.<br><br>🚀 Interned at Infosys Springboard, where I developed Picasso Phrase, an AI-driven medical image captioning system using RNN LSTM, enhancing my expertise in deep learning and NLP.<br>🧠 Skilled in building advanced ML and DL models for projects like Kubernetes cluster management, NLP-based goal model extraction, and chronic kidney disease prediction with 98.3% precision.<br>📊 Proficient in Python, Java, MySQL, and libraries like NumPy, Pandas, Scikit-learn, and SpaCy, with a focus on delivering optimized, data-driven solutions.<br>📄 Published researcher with a paper on household electricity load forecasting using LSTM, accepted at IEEE Xplore for the AIDE 2025 Conference.<br>⚽ Passionate about leadership and teamwork, serving as Founder of the Multimedia Student Club (Drisya) and a member of the campus football team.<br>🎓 Committed to continuous learning through certifications in AI, Generative AI, Quantum Enigmas, and Power BI, alongside hands-on project experience.
 
 
