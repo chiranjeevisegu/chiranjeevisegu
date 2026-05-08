@@ -106,21 +106,35 @@ NLP pipeline that parses natural language specifications and extracts structured
 
 <div align="center">
 
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,javascript,kotlin,html,css,latex&theme=dark)](https://skillicons.dev)
+### 🐍 Languages
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,js,kotlin,html,css&theme=dark)](https://skillicons.dev)
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-### AI / ML Frameworks
+### 🤖 AI / ML / Data Science
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark)](https://skillicons.dev)
 
-### Cloud & DevOps
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,github&theme=dark)](https://skillicons.dev)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-### Web & Databases
-[![My Skills](https://skillicons.dev/icons?i=react,flask,mongodb,mysql,nodejs&theme=dark)](https://skillicons.dev)
+### ☁️ Cloud & Platforms
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,anaconda&theme=dark)](https://skillicons.dev)
 
-### Design & Visualization
+### 🌐 Web & Databases
+[![My Skills](https://skillicons.dev/icons?i=react,flask,mongodb,mysql&theme=dark)](https://skillicons.dev)
+
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 🎨 Design & Visualization
 [![My Skills](https://skillicons.dev/icons?i=figma,blender&theme=dark)](https://skillicons.dev)
-`Canva` `Power BI` `Matplotlib` `Streamlit`
+
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 🔧 Tools
+[![My Skills](https://skillicons.dev/icons?i=github&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -186,6 +200,16 @@ current_focus = {
     "goal_2025":    "Contribute to open-source AI research & land an impactful AI role"
 }
 ```
+
+---
+
+## ✍️ Dev Quote of the Day
+
+<div align="center">
+
+[![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/PiyushSuthar/github-readme-quotes)
+
+</div>
 
 ---
 
