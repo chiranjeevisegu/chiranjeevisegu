@@ -118,9 +118,10 @@ NLP pipeline that parses natural language specifications and extracts structured
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 
 ### ☁️ Cloud & Platforms
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,anaconda&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,anaconda,kubernetes&theme=dark)](https://skillicons.dev)
 
 ### 🌐 Web & Databases
 [![My Skills](https://skillicons.dev/icons?i=react,flask,mongodb,mysql&theme=dark)](https://skillicons.dev)
